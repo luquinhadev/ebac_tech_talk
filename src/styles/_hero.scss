@@ -1,9 +1,13 @@
 @use 'variables';
 
+body {
+    overflow-x: hidden;
+}
+
 .hero {
     padding-top: 64px;
     padding-bottom: 100px;
-    background-image: url(../images/fundo.png);
+    background-image: url(../images/candy-2419138_1280.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
